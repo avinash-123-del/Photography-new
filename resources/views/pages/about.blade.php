@@ -64,7 +64,7 @@
             <div class="row">
                 <div class="col-lg-6 fadeInLeft">
                     <div class="st-about-img-wrap">
-                        <div class="st-about-img st-dynamic-bg st-bg" data-src="/uploads/about.jpg"></div>
+                        <div class="st-about-img st-dynamic-bg st-bg" data-src="{{ asset('uploads/About-Me.jpg') }}"></div>
                     </div>
                     <div class="st-height-b0 st-height-lg-b30"></div>
                 </div>
@@ -80,9 +80,7 @@
                                         create captivating visual content. My primary strength lies in UI design, where
                                         I focus on developing intuitive and aesthetically pleasing interfaces that
                                         enhance user experience.
-                                    </p>
-
-                                    <p>
+                                    
                                         I combine creative storytelling with meticulous attention to detail to transform
                                         concepts into engaging multimedia experiences. My expertise in graphic design
                                         and video editing complements my UI skills, allowing me to deliver cohesive and

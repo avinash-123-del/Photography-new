@@ -71,58 +71,68 @@
 
 
 <section id="about" class="st-about-wrap">
-    <div class="st-height-b100 st-height-lg-b80"></div>
-    <div class="container">
-        <div class="st-section-heading st-style1">
-            <h4 class="st-section-heading-title">ABOUT ME</h4>
-            <h2 class="st-section-heading-subtitle">ABOUT ME</h2>
-        </div>
-        <div class="st-height-b25 st-height-lg-b25"></div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 fadeInLeft">
-                <div class="st-about-img-wrap">
-                    <div class="st-about-img st-dynamic-bg st-bg" data-src="{{ asset('uploads/About-Me.jpg') }}"></div>
-                </div>
-                <div class="st-height-b0 st-height-lg-b30"></div>
+        <div class="st-height-b100 st-height-lg-b80"></div>
+        <div class="container">
+            <div class="st-section-heading st-style1">
+                <h4 class="st-section-heading-title">ABOUT ME</h4>
+                <h2 class="st-section-heading-subtitle">ABOUT ME</h2>
             </div>
-            <div class="col-lg-6">
-                <div class="st-vertical-middle">
-                    <div class="st-vertical-middle-in">
-                        <div class="st-text-block st-style1">
-                            <h2 class="st-text-block-title">Hello! I'm Abhinav Kapila</h2>
-                            <h4 class="st-text-block-subtitle">Graphic Designer</h4>
-                            <div class="st-text-block-text">
-                                <p> I have been a multimedia designer for over six years, and my strong suit is the
-                                    ability to combine my knowledge of photography, user interface and user experience
-                                    design, graphic design, and video editing to produce visually appealing material.
-                                    With an emphasis on imaginative narrative and painstaking attention to detail, I
-                                    convert concepts into captivating multimedia experiences. Working collaboratively
-                                    with teams to improve and develop projects is where my strengths lie. I am thrilled
-                                    to be a part of your creative projects via Abhinav Design Hub, whether you need
-                                    fresh graphic design, user-centric user interface and experience solutions, expert
-                                    video editing, or professional photography.
-                                </p>
-                            </div>
-                            <ul class="st-text-block-details st-mp0">
-                                {{-- <li><span>Birthday</span> : <span>May 07, 1990</span></li> --}}
-                                <li><span>Phone</span> : <span>+1 416-731-7960</span></li>
-                                <li><span>Email</span> : <span> abhinavdesignhub@gmail.com</span></li>
-                                <li><span>Address</span> : <span>Brampton, ON Canada</span></li>
-                                <li><span>Language</span> : <span>English</span></li>
-                                <li><span>Freelance</span> : <span>Available</span></li>
-                            </ul>
-                            <div class="st-text-block-btn">
-                                <a href="#" class="st-btn st-style1 st-color1">Download CV</a>
+            <div class="st-height-b25 st-height-lg-b25"></div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 fadeInLeft">
+                    <div class="st-about-img-wrap">
+                        <div class="st-about-img st-dynamic-bg st-bg" data-src="{{ asset('uploads/About-Me.jpg') }}"></div>
+                    </div>
+                    <div class="st-height-b0 st-height-lg-b30"></div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="st-vertical-middle">
+                        <div class="st-vertical-middle-in">
+                            <div class="st-text-block st-style1">
+                                <h2 class="st-text-block-title">Hello! I'm Abhinav Kapila</h2>
+                                <h4 class="st-text-block-subtitle">Graphic Designer</h4>
+                                <div class="st-text-block-text">
+                                    <p> With over six years of experience as a multimedia designer, I excel in
+                                        integrating photography, graphic design, UI/UX design, and video editing to
+                                        create captivating visual content. My primary strength lies in UI design, where
+                                        I focus on developing intuitive and aesthetically pleasing interfaces that
+                                        enhance user experience.
+                                    
+                                        I combine creative storytelling with meticulous attention to detail to transform
+                                        concepts into engaging multimedia experiences. My expertise in graphic design
+                                        and video editing complements my UI skills, allowing me to deliver cohesive and
+                                        effective visual solutions.
+                                    </p>
+
+                                    <p>
+                                        I thrive in collaborative settings, working closely with teams to refine and
+                                        elevate projects. At Abhinav Design Hub, I look forward to applying my diverse
+                                        skills to your projects, offering innovative design solutions and professional
+                                        multimedia services.
+                                    </p>
+                                </div>
+                                <ul class="st-text-block-details st-mp0">
+                                    {{-- <li><span>Birthday</span> : <span>May 07, 1990</span></li> --}}
+                                    <li><span>Phone</span> : <span>+1 416-731-7960</span></li>
+                                    <li><span>Email</span> : <span> abhinavdesignhub@gmail.com</span></li>
+                                    <li><span>Address</span> : <span>Brampton, ON Canada</span></li>
+                                    <li><span>Language</span> : <span>English</span></li>
+                                    <li><span>Freelance</span> : <span>Available</span></li>
+                                </ul>
+                                <div class="st-text-block-btn">
+                                    <a href="/uploads/Abhinav_Kapila_Resume.pdf" class="st-btn st-style1 st-color1"
+                                        do>Download CV</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+
 
 
 
