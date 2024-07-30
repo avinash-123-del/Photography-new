@@ -21,7 +21,7 @@
         </div>
         <div class="bg-noise"></div>
         <span class="wp">
-            <a href="https://wa.me/917415747504?text=I'm%20interested%20to%20work%20with%20you" target="_blank">
+            <a href="https://wa.me/14167317960?text=I'm%20interested%20to%20work%20with%20you" target="_blank">
                 <img src="/whatsapp.png" alt="WhatsApp">
             </a>
         </span>
