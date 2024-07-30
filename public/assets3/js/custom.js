@@ -7,8 +7,8 @@ $(document).ready(function () {
         margin: 10,
         dots: true,
         center: true,
-        autoplayTimeout: 2500,
-        autoplay: true,
+        // autoplayTimeout: 2500,
+        // autoplay: true,
         nav: true, // Hide default nav buttons
         items: 3,
         responsive: {
@@ -45,8 +45,8 @@ $(document).ready(function () {
         margin: 2,
         dots: true,
         center: true,
-        autoplayTimeout: 2000,
-        autoplay: true,
+        // autoplayTimeout: 2000,
+        // autoplay: true,
         nav: true, // Hide default nav buttons
         items: 3,
         responsive: {
